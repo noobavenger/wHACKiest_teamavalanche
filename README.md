@@ -21,4 +21,3 @@ Our State-of-the-art Fitness-Compete™ system allows you to compete with people
 your weight and height class, Double the stakes, Double the Rewards
 
 And many more Up-coming features!!!
-Video Link: https://drive.google.com/file/d/1qMQh32mhgdfseOUkl4TH8JTzrMcZneM0/view?usp=share_link
