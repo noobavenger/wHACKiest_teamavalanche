@@ -8,8 +8,8 @@ Hop into Avalanche folder and start index.html, Everything else is linked from t
 
 Use the sun button to toggle dark/light mode (Amazing workaround for that)
 
-Test user id has been created
-user: Test
+Test user id has been created \n
+user: Test \n
 pass: Test123
 
 you can register and login also! (Upcoming Feature)
