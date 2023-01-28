@@ -14,4 +14,10 @@ pass: Test123
 
 you can register and login also! (Upcoming Feature)
 
-Dashboard to monitor your progress
+Dashboard to monitor your progress and recieve regular updates.
+
+Main Attraction:
+Our State-of-the-art Fitness-Compete™ system allows you to compete with people from
+your weight and height class, Double the stakes, Double the Rewards
+
+And many more Up-coming features!!!
